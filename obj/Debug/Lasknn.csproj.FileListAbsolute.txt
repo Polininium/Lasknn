@@ -1,0 +1,6 @@
+J:\Lasknn\Lasknn\bin\Debug\Lasknn.exe.config
+J:\Lasknn\Lasknn\bin\Debug\Lasknn.exe
+J:\Lasknn\Lasknn\bin\Debug\Lasknn.pdb
+J:\Lasknn\Lasknn\obj\Debug\Lasknn.csprojResolveAssemblyReference.cache
+J:\Lasknn\Lasknn\obj\Debug\Lasknn.exe
+J:\Lasknn\Lasknn\obj\Debug\Lasknn.pdb
